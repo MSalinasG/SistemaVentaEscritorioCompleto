@@ -1,0 +1,24 @@
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\SisVentas - copia\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb

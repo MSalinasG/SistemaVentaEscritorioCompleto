@@ -1,0 +1,79 @@
+C:\Users\JCarlos ArcilaD\AppData\Local\Temporary Projects\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.application
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.application
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.exe
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.application
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.exe
+C:\SisVentas - copia\SisVentas\bin\Debug\SisVentas.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaNegocio.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaDatos.dll
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\SisVentas - copia\SisVentas\bin\Debug\CapaDatos.pdb
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\SisVentas - copia\SisVentas\obj\Debug\SisVentas.application
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.application
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\Users\OPERATIVO\Desktop\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.application
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.application
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll.config
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\bin\Debug\CapaDatos.dll.config
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csprojAssemblyReference.cache
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.application
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
