@@ -77,3 +77,26 @@ C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) 
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CopyComplete
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.exe
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\SisVentas.application
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll.config
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\bin\Debug\CapaDatos.dll.config
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.AssemblyReference.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.application
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.Up2Date
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\SisVentas\obj\Debug\SisVentas.pdb

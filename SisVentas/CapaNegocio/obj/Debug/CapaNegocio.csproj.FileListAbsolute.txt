@@ -29,3 +29,13 @@ C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) 
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll.config
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

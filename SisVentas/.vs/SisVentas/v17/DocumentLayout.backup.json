@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capapresentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|d:\\github projects\\sistemaventaescritoriocompleto\\sisventas\\capapresentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{579FB337-AB3A-4B7F-BC6A-FDAF3D3CFF8C}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\capadatos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D35DF176-3931-4849-BD9E-970B0013953B}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVenta.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmVenta.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmVenta.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmVenta.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAASwFABAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T22:47:07.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmIngreso.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngreso.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmIngreso.cs",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngreso.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAewF4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:52:49.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmIngreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FrmIngreso.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\FrmIngreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FrmIngreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:52:41.403Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmArticulo.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmArticulo.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\frmArticulo.cs",
+              "RelativeToolTip": "CapaPresentacion\\frmArticulo.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAIA7wNcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:52:23.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\frmArticulo.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\frmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:52:18.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\app.config",
+              "RelativeDocumentMoniker": "CapaDatos\\app.config",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\app.config",
+              "RelativeToolTip": "CapaDatos\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T17:58:03.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\DCategoria.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DCategoria.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\DCategoria.cs",
+              "RelativeToolTip": "CapaDatos\\DCategoria.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:09:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DArticulo.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\DArticulo.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DArticulo.cs",
+              "ToolTip": "D:\\GitHub Projects\\SistemaVentaEscritorioCompleto\\SisVentas\\CapaDatos\\DArticulo.cs",
+              "RelativeToolTip": "CapaDatos\\DArticulo.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAawFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:29:11.719Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

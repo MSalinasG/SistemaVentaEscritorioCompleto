@@ -22,3 +22,10 @@ C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) 
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Maicol\Desktop\guardar-m\Sistema de Ventas C# - SQL Server 2014 (Free) (1)\Sistema de Ventas C# - SQL Server 2014 (Free) - Incanatoit\Código Fuente\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\GitHub Projects\SistemaVentaEscritorioCompleto\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
